@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="600"
+   height="760"
+   id="svg20"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="peseux.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="1147"
+     id="namedview27"
+     showgrid="false"
+     inkscape:zoom="0.30930537"
+     inkscape:cx="-84.849576"
+     inkscape:cy="381.5"
+     inkscape:window-x="1592"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg20" />
+  <desc
+     id="desc22">Coat of Arms of Canton of Freiburg (Fribourg)</desc>
+  <metadata
+     id="metadata31">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:date>07-AUG-2006</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Jérôme BLUM (wagner51)</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:coverage />
+        <dc:description>Gabarit pour le Projet:Blasons de WIkipédia</dc:description>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>blason suisse modèle gabarit projet blasons</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:language>fr</dc:language>
+        <dc:title />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs29">
+    <linearGradient
+       id="linearGradient2893">
+      <stop
+         id="stop2895"
+         style="stop-color:#ffffff;stop-opacity:0.3137255"
+         offset="0" />
+      <stop
+         id="stop2897"
+         style="stop-color:#ffffff;stop-opacity:0.25098041"
+         offset="0.19" />
+      <stop
+         id="stop2901"
+         style="stop-color:#6b6b6b;stop-opacity:0.1254902"
+         offset="0.60000002" />
+      <stop
+         id="stop2899"
+         style="stop-color:#000000;stop-opacity:0.1254902"
+         offset="1" />
+    </linearGradient>
+    <radialGradient
+       cx="858.04236"
+       cy="579.93323"
+       r="300"
+       fx="858.04236"
+       fy="579.93323"
+       id="radialGradient3236"
+       xlink:href="#linearGradient2893"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.215027,0,0,1.266667,-839.1924,-490.4894)" />
+    <clipPath
+       id="clipPath3837">
+      <path
+         d="m -1.5,-1.5 0,-458.86794 C -1.5,-626.67854 -135.81454,-761.5 -301.49993,-761.5 -467.1854,-761.5 -601.5,-626.67854 -601.5,-460.36794 l 0,458.86794 600,0 z"
+         id="path3839"
+         style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;display:inline"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <g
+     id="layer3"
+     style="display:inline"
+     transform="translate(0,-3)" />
+  <g
+     transform="translate(-37.142838,-225.70764)"
+     id="g6854">
+    <path
+       id="rect3029-5"
+       d="m 37.142836,225.70764 0,458.875 c 0,166.3106 134.314704,301.125 299.999964,301.125 l 0,-760 -299.999964,0 z"
+       style="fill:#ffff00;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0" />
+    <path
+       id="rect3029-9-1"
+       d="m 637.14284,225.70765 0,458.87499 c 0,166.3106 -134.3147,301.125 -300.0001,301.125 l 0,-759.99999 300.0001,0 z"
+       style="fill:#2b5df2;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0" />
+    <rect
+       y="465.70764"
+       x="37.142838"
+       height="213.89243"
+       width="600"
+       id="rect6738"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <path
+       id="rect6753-0"
+       d="m 580.18969,506.46635 0,9.84375 -367.8124,0 0,2.9375 -42.9688,0 c -43.896,23.67258 -99.687505,26.34375 -99.687505,26.34375 l -0.75,93.25 c 0,0 30.755302,-43.54952 97.250005,-70.625 l 0,15.75 0,5.1875 5.125,-0.96875 62.4375,-12.03125 2.5,-0.5 0.7812,-2.40625 8.5,-26.1875 c 61.1204,-10.93774 81.4376,-3.6875 81.4376,-3.6875 l 13.8437,-4.9375 256.0937,0 0,-10.1875 8.375,0 0,-11.9375 -8.375,0 0,-9.84375 -16.75,0 z m -344.25,42.375 -6.2812,19.3125 -32.0625,6.1875 c 2.4193,-7.69175 4.6682,-12.39807 11.6875,-19.65625 9.5632,-2.28005 18.4544,-4.22949 26.6562,-5.84375 z m -37.5312,8.53125 c -1.7704,7.48074 -2.1159,13.65513 -1.7188,17.15625 l -21.875,4.21875 0,-13.84375 c 7.4543,-2.74325 15.3064,-5.29951 23.5938,-7.53125 z"
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
