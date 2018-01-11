@@ -13,8 +13,8 @@
    height="760"
    id="svg8974"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 171">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="les_verrieres.svg">
   <defs
      id="defs8976" />
   <sodipodi:namedview
@@ -34,10 +34,10 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="463"
+     inkscape:window-width="864"
      inkscape:window-height="423"
-     inkscape:window-x="1704"
-     inkscape:window-y="104"
+     inkscape:window-x="2055"
+     inkscape:window-y="204"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata8979">
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -56,6 +56,11 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-75,-152.36218)">
+    <path
+       style="fill:#ffffff;fill-opacity:1"
+       id="path2346-2"
+       d="m 74.99997,152.36217 0,458.8679 c 0,166.31063 134.3147,301.13213 300.0001,301.13213 165.68539,0 299.99996,-134.8215 299.99996,-301.13213 l 0,-458.8679 -600.00006,0 z"
+       inkscape:connector-curvature="0" />
     <g
        transform="translate(37.857164,-73.345457)"
        id="g8951">

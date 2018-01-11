@@ -14,7 +14,7 @@
    height="760"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="enges.svg">
   <defs
      id="defs4">
@@ -768,9 +768,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="267.86941"
-     inkscape:cy="43.011"
+     inkscape:zoom="0.69999999"
+     inkscape:cx="333.76451"
+     inkscape:cy="271.58243"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -778,11 +778,11 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1055"
-     inkscape:window-height="931"
-     inkscape:window-x="78"
-     inkscape:window-y="78"
-     inkscape:window-maximized="0" />
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -800,6 +800,11 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-37.142857,-58.076473)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1"
+       d="m 637.14288,461.07642 -600.000043,0 0,55.87499 c 0,166.31066 134.314633,301.12506 300.000023,301.12506 165.68552,0 300.00002,-134.8144 300.00002,-301.12506 l 0,-55.87499 z"
+       id="path3033" />
     <path
        style="fill:#eeeeee;fill-opacity:1"
        id="path2294"
